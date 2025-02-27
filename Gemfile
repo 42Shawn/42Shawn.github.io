@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'uri', '~> 1.0.3'
-gem 'jekyll', '~> 4.3', :without => [:uri]
+gem 'jekyll', '~> 4.3'
 
 # Core plugins that directly affect site building
 group :jekyll_plugins do
