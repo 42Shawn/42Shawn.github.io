@@ -34,6 +34,14 @@ jobs:
           rm -f Gemfile.lock
       - name: Install dependencies
         run: bundle install
+      - name: Update Gems with URI Specifics
+        run: |
+          gem 'uri', '~> 1.0.3'
+          gem 'jekyll', '~> 4.3', :without => [:uri]
+          gem 'jekyll', '~> 4.3'
+          gem 'jekyll-feed', '~> 0.16'
+          gem 'github-pages', group: :jekyll_plugins
+          bundle update
       - name: Install deps
         run: |
           npm install -g mermaid.cli
