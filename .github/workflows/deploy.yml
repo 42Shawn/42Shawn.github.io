@@ -21,6 +21,10 @@ jobs:
         with:
           ruby-version: '3.0.2' # 使用与示例相同的 Ruby 版本
           bundler-cache: true
+      - name: Uninstall uri 0.10.1
+        run: gem uninstall uri -v 0.10.1
+      - name: Install uri 1.0.3
+        run: gem install uri -v 1.0.3
       - name: bundle config
         run: bundle config --global frozen false
       - name: Update Bundler and Gems
