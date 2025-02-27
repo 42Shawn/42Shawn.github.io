@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+gem 'uri', '~> 1.0.3'
 gem 'jekyll'
 
 # Core plugins that directly affect site building
@@ -21,7 +21,6 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-
     gem 'classifier-reborn'  # used for content categorization during the build
 end
 

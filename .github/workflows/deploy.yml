@@ -36,7 +36,6 @@ jobs:
         run: bundle install
       - name: Update Gems with URI Specifics
         run: |
-          gem 'uri', '~> 1.0.3'
           gem 'jekyll', '~> 4.3', :without => [:uri]
           gem 'jekyll', '~> 4.3'
           gem 'jekyll-feed', '~> 0.16'
