@@ -36,7 +36,7 @@ During my Ph.D. journey, I was a visiting student at the University of Wisconsin
 
 #### Research Goal: Efficient/Scalable AI Systems
 - **Visual Generative Model Acceleration**:    
-[PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005), [DKDM (CVPR'2025)](https://arxiv.org/abs/2409.03550), [QuEST](https://arxiv.org/abs/2402.03666){:style="color: black;"}, [SpeeD for Diffusion Fast Training (CVPR'2025)](https://arxiv.org/pdf/2405.17403), [E-CAR](https://arxiv.org/pdf/2412.14170){:style="color: black;"}.
+[PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005), [DKDM (CVPR'2025)](https://arxiv.org/abs/2409.03550), [SpeeD for Diffusion Fast Training (CVPR'2025)](https://arxiv.org/pdf/2405.17403), [QuEST](https://arxiv.org/abs/2402.03666){:style="color: black;"}, [E-CAR](https://arxiv.org/pdf/2412.14170){:style="color: black;"}.
 - **Efficient (Visual, Language, and Multimodal) Large Models**:    
 [Bi-MTDP (CVPR'2024)](https://arxiv.org/abs/2405.14136), [FBPT (ICRA'2024)](https://arxiv.org/abs/2405.14136), [PB-LLM (ICLR'2024)](https://arxiv.org/pdf/2310.00034), [LLM-Viewer (Efficient LLM Survey)](https://arxiv.org/abs/2402.16363){:style="color: black;"}, [RPTQ](https://arxiv.org/abs/2304.01089){:style="color: black;"}, [ASVD](https://arxiv.org/abs/2312.05821){:style="color: black;"}, [LLaVA-PruMerge](https://arxiv.org/abs/2403.15388){:style="color: black;"}, [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963){:style="color: black;"}.
 - **Neural Network Compression**:    
