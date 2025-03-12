@@ -85,7 +85,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can also reach me through WeChat, and my WeChat ID is str(my Surname + GivenName in Pinyin).
+  You can also reach me through WeChat, and my WeChat ID is my Surname + GivenName in Pinyin.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
