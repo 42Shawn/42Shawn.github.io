@@ -2,7 +2,7 @@
 <!-- layout: about
 title: About
 permalink: /
-subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>
+<!-- > subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>     -->
 
 profile:
   align: right
@@ -15,7 +15,8 @@ profile:
 layout: about
 title: About
 permalink: /
-subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>
+<!-- > subtitle: <span style="color:red; font-weight:bold;">[I'm on the 24/25 academic job market. Feel free to contact me.]</span>     -->
+
 
 profile:
   align: right
