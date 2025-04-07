@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 ## About Me
-<span style="color:red; font-weight:bold;">[I am an incoming Assistant Professor of Computer Science at University of Central Florida (UCF), affiliated with the Artificial Intelligence Initiative (Aii).]</span>
+<span style="color:red; font-weight:bold;">[I am an incoming Assistant Professor of Computer Science at University of Central Florida (UCF), affiliated with the Artificial Intelligence Initiative (Aii). I am hiring self-motivated PhD students, master’s/undergraduate students, and interns/visiting students. If you are interested in working with me, feel free to contact me.]</span>
 
 I am a final-year (2021-2025) Ph.D. candidate in Computer Science at the Illinois Institute of Technology advised by Prof. [Yan Yan](https://tomyan555.github.io/){:style="color: rgb(240, 119, 43); font-weight: 400;"} (now at University of Illinois Chicago, UIC).     
 
