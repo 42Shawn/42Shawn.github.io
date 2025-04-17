@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 ## About Me 
-<span style="color:red; font-weight:bold;">[04/2025]</span> I am an incoming Assistant Professor of Computer Science at [University of Central Florida (UCF)](https://www.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"} for Fall 2025, affiliated with the [Artificial Intelligence Initiative (Aii)](https://ai.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}. &lt;span style="font-weight: 600;">[UCF@CSRankings: Computer Vision (8th), AI (46th), Overall (55th).]&lt;/span> 
+<span style="color:red; font-weight:bold;">[04/2025]</span> I am an incoming Assistant Professor of Computer Science at [University of Central Florida (UCF)](https://www.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"} for Fall 2025, affiliated with the [Artificial Intelligence Initiative (Aii)](https://ai.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}. &lt;span style="font-weight: 600;">[UCF@CSRankings: Computer Vision (8th), AI (46th), Overall (55th).]&lt;/span>
 We are actively looking for postdocs, Ph.D. students, visiting scholars/students, and undergraduate researchers. If you are interested in working with us, feel free to contact me at yuzhang.hire@gmail.com. 
 
 I am a final-year (2021-2025) Ph.D. candidate in Computer Science at the Illinois Institute of Technology advised by Prof. [Yan Yan](https://tomyan555.github.io/){:style="color: rgb(240, 119, 43); font-weight: 400;"} (now at University of Illinois Chicago, UIC). 
