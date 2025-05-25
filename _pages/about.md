@@ -12,7 +12,7 @@ profile:
     yuzhang.shang@ucf.edu
     <p>Department of Computer Science</p>
     <p>Illinois Institute of Technology</p>
-    <p>Chicago, IL 60616</p> -->
+    <p>Chicago, IL 60616</p>
 layout: about
 title: About
 permalink: /
