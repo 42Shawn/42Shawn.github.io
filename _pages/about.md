@@ -25,7 +25,11 @@ profile:
   image_circular: false # crops the image to make it circular
   image_size: 200px 
   address: >
-
+    yuzhang.shang@ucf.edu
+    <p>Department of Computer Science</p>
+    <p>Illinois Institute of Technology</p>
+    <p>Chicago, IL 60616</p>
+    
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
