@@ -2,17 +2,17 @@
 layout: page
 permalink: /sLearn-Lab/
 title: sLearn-Lab
-description: Scalable Learning Lab (sLearn-Lab) at UCF.
+description: Scalable Learning Lab (sLearn-Lab@UCF).
 nav: true
 nav_order: 4
 ---
 
-## Welcome to Scalable Learning Lab (sLearn-Lab) at UCF.    
-Welcome to our research lab at the University of Central Florida (UCF), part of the Department of Computer Science and the AI Initiative. Our mission is to build the next generation of **efficient and scalable machine intelligence**. We hope to achieve this through a fundamental approach, co-designing and optimizing AI algorithms and hardware systems. Our work can result in low-cost, high-performance frameworks. We hope it can be applied to accelerate scientific discovery. 
+Welcome to our research lab at the University of Central Florida (UCF), part of the Department of Computer Science and the AI Initiativ (Aii). Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery. 
 
-## Members    
+### Members    
 
-### PI: Yuzhang Shang    
+### PI
+- [Yuzhang Shang](https://42shawn.github.io/){:style="color: black;"}    
 
 ### Ph.D. Students    
 - A
