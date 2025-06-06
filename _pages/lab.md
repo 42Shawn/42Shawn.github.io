@@ -11,13 +11,14 @@ Welcome to our research lab at the University of Central Florida (UCF), part of 
 
 ### Members    
 
-### PI
+#### PI
 - [Yuzhang Shang](https://42shawn.github.io/){:style="color: black;"}    
+    - Assistant Professor, UCF
 
-### Ph.D. Students    
+#### Ph.D. Students    
 - A
 - B
 
-### Research Assistants    
+#### Research Assistants    
 - C
 - D
