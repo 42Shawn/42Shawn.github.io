@@ -1,19 +1,14 @@
 ---
 layout: page
-permalink: /Teaching/
-title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /sLearn-Lab/
+title: sLearn-Lab
+description: Scalable Learning Lab (sLearn-Lab) at UCF.
 nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
-
-## Welcome to Scalable Learning Lab (sLearn) at UCF.    
-
-## Goal:
+## Welcome to Scalable Learning Lab (sLearn-Lab) at UCF.    
+Welcome to our research lab at the University of Central Florida (UCF), part of the Department of Computer Science and the AI Initiative. Our mission is to build the next generation of efficient and scalable machine intelligence.We hope to achieve this through a fundamental approach, co-designing and optimizing AI algorithms and hardware systems. Our work can result in low-cost, high-performance frameworks. We hope it can be applied to accelerate scientific discovery. 
 
 ## Members
 ### PI: Yuzhang Shang
