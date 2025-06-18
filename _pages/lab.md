@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /sLearn-Lab/
-title: sLearn-Lab
-description: Scalable Learning Lab (sLearn-Lab@UCF).
+permalink: /ESIL-Lab@UCF/
+title: ESIL-Lab@UCF
+description: Efficient and Scalable Intelligent Learning Lab (ESIL-Lab@UCF).
 nav: true
 nav_order: 4
 ---
