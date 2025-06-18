@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 ## About Me 
-I am an Assistant Professor of Computer Science (Starting Fall 25) at [University of Central Florida (UCF)](https://www.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"} for Fall 2025, affiliated with the [Artificial Intelligence Initiative (Aii)](https://ai.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}.     
+I am an Assistant Professor of Computer Science (Starting Fall 25) at [University of Central Florida (UCF)](https://www.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}, affiliated with the [Artificial Intelligence Initiative (Aii)](https://ai.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}.     
 
 
 I obtained my Ph.D. in Computer Science at the Illinois Institute of Technology advised by Prof. [Yan Yan](https://tomyan555.github.io/){:style="color: rgb(240, 119, 43); font-weight: 400;"} (now at University of Illinois Chicago, UIC). 
