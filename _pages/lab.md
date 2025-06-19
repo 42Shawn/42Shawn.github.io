@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /ESL-Lab@UCF/
-title: ESL-Lab@UCF
-description: Efficient and Scalable Learning Lab (ESL-Lab@UCF).
+permalink: /EfficientAI-Lab@UCF/
+title: EfficientAI-Lab@UCF
+description: Efficient AI Lab at University of Central Florida.
 nav: true
 nav_order: 4
 ---
