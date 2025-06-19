@@ -5,6 +5,11 @@ title: EfficientAI-Lab@UCF
 description: Efficient AI Lab at University of Central Florida.
 nav: true
 nav_order: 4
+
+news: true  # includes a list of news items
+# selected_papers: false # includes a list of papers marked as "selected={true}"
+# social: true  # includes social icons at the bottom of the page
+news_limit: 5
 ---
 
 Welcome to our research lab at the University of Central Florida (UCF), part of the Department of Computer Science and the AI Initiativ (Aii). Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery. 
