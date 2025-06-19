@@ -12,18 +12,15 @@ Welcome to our research lab at the University of Central Florida (UCF), part of 
 ### Members    
 
 **Principal Investigator**    
-
-- [Yuzhang Shang](https://42shawn.github.io/){:style="color: black;"}, Assistant Professor, UCF
+- [Yuzhang Shang](https://42shawn.github.io/){:style="color: rgb(240, 119, 43);"}, Assistant Professor
 
 **Ph.D. Students**    
 - Kunyang Li (Fall 2025-current, B.S.: University of Electronic Science and Technology of China & M.S.: Nanyang Technological University)
 
 **M.S. Students**    
-
 - Mahd Qureshi (Fall 2025-current, B.S.: Lahore University of Management Sciences)
 
 **Research Assistant**    
-
 - Ziqing Chang (Summer 2025-current, B.S.: Wuhan University & M.S.: ETH Zurich)
 
 ### Research Goal: Efficient/Scalable AI
