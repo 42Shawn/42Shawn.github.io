@@ -15,12 +15,10 @@ Welcome to our research lab at the University of Central Florida (UCF), part of 
 - [Yuzhang Shang](https://42shawn.github.io/){:style="color: black;"}, Assistant Professor, UCF
 
 #### Ph.D. Students    
-- A
-- B
+- Kunyang Li (Fall 2025-current, B.S.: UESTC, M.S.: NTU)
 
 #### Research Assistants    
-- C
-- D
+
 
 ### Research Goal: Efficient/Scalable AI
 - **Visual Generative Model Acceleration**:    

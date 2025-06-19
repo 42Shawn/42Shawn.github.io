@@ -30,7 +30,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
-## About Me 
+<!-- ## About Me  -->
 I am an Assistant Professor of Computer Science (Starting Fall 25) at [University of Central Florida (UCF)](https://www.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}, affiliated with the [Artificial Intelligence Initiative (Aii)](https://ai.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}.     
 
 
