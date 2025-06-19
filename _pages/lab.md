@@ -11,16 +11,20 @@ Welcome to our research lab at the University of Central Florida (UCF), part of 
 
 ### Members    
 
-#### PI
-- [Yuzhang Shang](https://42shawn.github.io/){:style="color: black;"}, Assistant Professor, UCF
+#### Principal Investigator
+- [Yuzhang Shang](https://42shawn.github.io/), Assistant Professor, UCF
 
 #### Ph.D. Students    
-- Kunyang Li (Fall 2025-current, B.S.: UESTC, M.S.: NTU)
+- Kunyang Li (Fall 2025-current, B.S.: University of Electronic Science and Technology of China & M.S.: Nanyang Technological University)
 
-#### Research Assistants    
+#### M.S. Students
+- Mahd Qureshi (Fall 2025-current, B.S.: Lahore University of Management Sciences)
 
+#### Research Assistant
+- Ziqing Chang (Summer 2025-current, B.S.: Wuhan University & M.S.: ETH Zurich)
 
 ### Research Goal: Efficient/Scalable AI
+
 - **Visual Generative Model Acceleration**:    
 [PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005), [DKDM (CVPR'2025)](https://arxiv.org/abs/2409.03550), [SpeeD for Diffusion Fast Training (CVPR'2025)](https://arxiv.org/pdf/2405.17403), [QuEST](https://arxiv.org/abs/2402.03666){:style="color: black;"}, [E-CAR](https://arxiv.org/pdf/2412.14170){:style="color: black;"}.
 - **Efficient (Visual, Language, and Multimodal) Large Models**:    
