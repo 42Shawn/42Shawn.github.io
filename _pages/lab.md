@@ -36,5 +36,6 @@ Welcome to our research lab at the University of Central Florida (UCF), part of 
 - Mahd Qureshi (Fall 2025-current, B.S.: Lahore University of Management Sciences)
 
 **Research Assistant**    
-- Ziqing Chang (Summer 2025-current, B.S.: Wuhan University & M.S.: ETH Zurich)
+- Zhiben Chen (Summer 2025-current, B.S.: University of Macau & M.S.: CMU)
+- Ziqing Chang (Summer 2025, B.S.: Wuhan University & M.S.: ETH Zurich)
 
