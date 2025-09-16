@@ -2,7 +2,7 @@
 layout: page
 permalink: /EXceL-Lab@UCF/
 title: EXceL-Lab@UCF
-description: **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory (**EXceL-Lab**) at University of Central Florida.
+description: Efficient, Scalable and Accelerated Learning Laboratory (EXceL-Lab) at University of Central Florida.
 nav: true
 nav_order: 4
 
@@ -10,7 +10,7 @@ news: true  # includes a list of news items
 news_limit: 5
 ---
 
-Welcome to our research lab at the University of Central Florida (UCF), part of the Department of Computer Science and the AI Initiativ (Aii). Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery. 
+Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory (**EXceL-Lab**) at University of Central Florida, part of the Department of Computer Science and the Insititute of AI. Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize and accelerate AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery. 
 
 ### Research Goal: Efficient/Scalable AI
 
