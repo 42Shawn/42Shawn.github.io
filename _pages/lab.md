@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /EfficientAI-Lab@UCF/
-title: EfficientAI-Lab@UCF
-description: Efficient AI Laboratory at University of Central Florida.
+permalink: /EXceL-Lab@UCF/
+title: EXceL-Lab@UCF
+description: **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory (**EXceL-Lab**) at University of Central Florida.
 nav: true
 nav_order: 4
 
