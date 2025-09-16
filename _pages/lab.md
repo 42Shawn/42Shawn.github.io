@@ -15,9 +15,9 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
 ### Research Goal: Efficient/Scalable AI
 
 - **Visual Generative Model Acceleration**:    
-[PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005), [DKDM (CVPR'2025)](https://arxiv.org/abs/2409.03550), [SpeeD for Diffusion Fast Training (CVPR'2025)](https://arxiv.org/pdf/2405.17403), [QuEST](https://arxiv.org/abs/2402.03666){:style="color: black;"}, [E-CAR](https://arxiv.org/pdf/2412.14170){:style="color: black;"}.
+[PTQ4DM (CVPR'2023)](https://arxiv.org/abs/2211.15736), [PTQ4DiT (NeurIPS'2024)](https://arxiv.org/abs/2405.16005), [DKDM (CVPR'2025)](https://arxiv.org/abs/2409.03550), [SpeeD for Diffusion Fast Training (CVPR'2025)](https://arxiv.org/pdf/2405.17403), [QuEST (ICCV'2025)](https://arxiv.org/abs/2402.03666), [E-CAR](https://arxiv.org/pdf/2412.14170){:style="color: black;"}.
 - **Efficient (Visual, Language, and Multimodal) Large Models**:    
-[Bi-MTDP (CVPR'2024)](https://arxiv.org/abs/2405.14136), [FBPT (ICRA'2024)](https://arxiv.org/abs/2405.14136), [PB-LLM (ICLR'2024)](https://arxiv.org/pdf/2310.00034), [PTQ1.61 (ACL'2025)](https://arxiv.org/abs/2502.13179), [LLM-Viewer (Efficient LLM Survey)](https://arxiv.org/abs/2402.16363){:style="color: black;"}, [RPTQ](https://arxiv.org/abs/2304.01089){:style="color: black;"}, [ASVD](https://arxiv.org/abs/2312.05821){:style="color: black;"}, [LLaVA-PruMerge](https://arxiv.org/abs/2403.15388){:style="color: black;"}, [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963){:style="color: black;"}.
+[Bi-MTDP (CVPR'2024)](https://arxiv.org/abs/2405.14136), [FBPT (ICRA'2024)](https://arxiv.org/abs/2405.14136), [PB-LLM (ICLR'2024)](https://arxiv.org/pdf/2310.00034), [PTQ1.61 (ACL'2025)](https://arxiv.org/abs/2502.13179), [LLM-Viewer (Efficient LLM Survey)](https://arxiv.org/abs/2402.16363){:style="color: black;"}, [RPTQ](https://arxiv.org/abs/2304.01089){:style="color: black;"}, [ASVD](https://arxiv.org/abs/2312.05821){:style="color: black;"}, [LLaVA-PruMerge (ICCV'2025)](https://arxiv.org/abs/2403.15388), [INTP-Video-LLMs](https://arxiv.org/abs/2409.12963){:style="color: black;"}.
 - **Neural Network Compression**:    
 [LONDON (ICCV'2021)](https://arxiv.org/abs/2108.12905), [CMIM (ECCV'2022)](https://arxiv.org/abs/2207.02970), [LCR-BNN (ECCV'2022)](https://arxiv.org/abs/2207.06540), [Causal-DFQ (ICCV'2023)](https://arxiv.org/abs/2309.136820), [CL-Calib (CVPR'2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Shang_Enhancing_Post-training_Quantization_Calibration_through_Contrastive_Learning_CVPR_2024_paper.pdf).
 - **Efficient Training for Neural Networks**:    
@@ -36,6 +36,4 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
 - Mahd Qureshi (Fall 2025-current, B.S.: Lahore University of Management Sciences)
 
 **Research Assistant**    
-- Zhiben Chen (Summer 2025-current, B.S.: University of Macau & M.S.: CMU)
-- Ziqing Chang (Summer 2025, B.S.: Wuhan University & M.S.: ETH Zurich)
-
+- Zhiben Chen (Summer 2025-current, B.S.: University of Macau & M.S.: CMU)    
