@@ -84,8 +84,8 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  You can also reach me through WeChat, and my WeChat ID is my Surname + GivenName in Pinyin.
+# contact_note: >
+#   You can also reach me through WeChat, and my WeChat ID is my Surname + GivenName in Pinyin.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
