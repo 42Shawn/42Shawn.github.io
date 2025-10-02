@@ -46,5 +46,5 @@ _Besides research, I am a contract photographer for Shutterstock Images and Gett
 <!-- > Motto: Wir müssen wissen, wir werden wissen!     -->
 
 <div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
-  <p>For a full list of publications, please refer to [this page](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ){:style="color: rgb(240, 119, 43); font-weight: 400;"}.</p>
+  <p>For a full list of publications, please refer to <a href="https://scholar.google.com/citations?user=6ZPL5E0AAAAJ" style="color: rgb(240, 119, 43); font-weight: 400;">this page</a>.</p>
 </div>
