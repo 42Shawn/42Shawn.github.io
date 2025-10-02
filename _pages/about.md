@@ -44,3 +44,7 @@ Before Ph.D., I worked as research assistants at Shandong University and Hong Ko
 
 _Besides research, I am a contract photographer for Shutterstock Images and Getty Images (my [portfolio](https://500px.com/p/yuzhangshang){:style="color: rgb(240, 119, 43); font-weight: 400;"})._     
 <!-- > Motto: Wir müssen wissen, wir werden wissen!     -->
+
+<div style="text-align: center; margin-top: 30px; margin-bottom: 20px;">
+  <p>For a full list of publications, please refer to [this page](https://scholar.google.com/citations?user=6ZPL5E0AAAAJ){:style="color: rgb(240, 119, 43); font-weight: 400;"}.</p>
+</div>
