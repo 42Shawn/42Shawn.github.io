@@ -22,8 +22,8 @@ profile:
   image: yuzhang.png
   image_circular: false # crops the image to make it circular
   image_size: 200px 
-  # address: >
-  #   yuzhang.shang@ucf.edu
+  address: >
+     UCF Global 216
     
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
