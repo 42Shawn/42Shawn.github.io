@@ -31,7 +31,7 @@ social: true  # includes social icons at the bottom of the page
 news_limit: 5
 ---
 <!-- ## About Me  -->
-I am an Assistant Professor in the [Department of Computer Science](https://www.cs.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"} and [Institute of Artificial Intelligence](https://www.ucf.edu/institute-of-artificial-intelligence/){:style="color: rgb(240, 119, 43); font-weight: 400;"} at [University of Central Florida (UCF)](https://www.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}. I am leading the **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory ([EXceL-Lab](https://excel-lab.github.io/EXcel-Lab-Website/){:style="color: rgb(240, 119, 43); font-weight: 400;"}).     
+I am an Assistant Professor in the [Department of Computer Science](https://www.cs.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"} and [Institute of Artificial Intelligence](https://www.ucf.edu/institute-of-artificial-intelligence/){:style="color: rgb(240, 119, 43); font-weight: 400;"} at [University of Central Florida (UCF)](https://www.ucf.edu/){:style="color: rgb(240, 119, 43); font-weight: 400;"}. I am directing the **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory ([EXceL-Lab](https://excel-lab.github.io/EXcel-Lab-Website/){:style="color: rgb(240, 119, 43); font-weight: 400;"}).     
 
 I obtained my Ph.D. in Computer Science at the Illinois Institute of Technology (2021-2025) advised by Prof. [Yan Yan](https://tomyan555.github.io/){:style="color: rgb(240, 119, 43); font-weight: 400;"} (now at University of Illinois Chicago, UIC) and co-advised by Prof. [Peng-Jun Wan](http://www.cs.iit.edu/~wan/){:style="color: rgb(240, 119, 43); font-weight: 400;"}.     
 
