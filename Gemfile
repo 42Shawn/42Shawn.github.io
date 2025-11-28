@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'uri', '~> 1.0.3'
+gem 'uri', '>= 0.10.0'
 gem 'jekyll', '~> 4.3'
 
 group :jekyll_plugins do
