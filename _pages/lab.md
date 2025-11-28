@@ -10,7 +10,10 @@ news: true  # includes a list of news items
 news_limit: 5
 ---
 
-Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory ([EXceL-Lab](https://excel-lab.github.io/EXcel-Lab-Website/){:style="font-weight: 500;"}) at University of Central Florida, part of the Department of Computer Science and the Insititute of AI. Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize and accelerate AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery. 
+Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory ([EXceL-Lab](https://excel-lab.github.io/EXcel-Lab-Website/){:style="font-weight: 500;"}) at University of Central Florida, part of the Department of Computer Science and the Insititute of Artificial intelligence. Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize and accelerate AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery.     
+
+<span style="font-weight:bold; color:red;">[Hiring!]</span> <span style="color:red;">I am actively looking for postdocs, Ph.D. students, visiting scholars/students, and master/undergraduate researchers.</span> If you are interested in working with me, feel free to contact me via yuzhang.hire@gmail.com. <span style="font-weight:400;">UCF@CSRankings: Computer Vision (9th), AI (39th), Overall (53rd).</span>    
+
 
 <!-- ### Research Goal: Efficient/Scalable AI
 
@@ -24,17 +27,21 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
 [MIM4DD (NeurIPS'2023)](https://proceedings.neurips.cc/paper_files/paper/2023/hash/24d36eee157559e0d2549455fba28f6a-Abstract-Conference.html), [DQAS (ECCV'2024)](https://arxiv.org/abs/2407.07268), [HEPrune (NeurIPS'2024)](https://github.com/UCF-Lou-Lab-PET/Private-Data-Prune), [LTDD (CVPR'2025)](https://arxiv.org/abs/2408.14506).     -->
  
 
-### Members    
 
 **Principal Investigator**    
 - [Yuzhang Shang](https://42shawn.github.io/){:style="color: rgb(240, 119, 43);"}, Assistant Professor
 
 **Ph.D. Students**    
-- Kunyang Li (Fall 2025-current, B.S.: University of Electronic Science and Technology of China & M.S.: Nanyang Technological University)
-- Wenrui Bao (Spring 2026-current, B.S.: Chinese University of Hong Kong & M.S.: National University of Singapore)
+- Kunyang Li (Fall 2025-current)    
+  B.S.: University of Electronic Science and Technology of China & M.S.: Nanyang Technological University    
+  
+- Wenrui Bao (Spring 2026-current)    
+  B.S.: Chinese University of Hong Kong & M.S.: National University of Singapore
 
 **M.S. Students**    
-- Mahd Qureshi (Fall 2025-current, B.S.: Lahore University of Management Sciences)
+- Mahd Qureshi (Fall 2025-current)    
+  B.S.: Lahore University of Management Sciences
 
 **Research Assistant**    
-- Zhiben Chen (Summer 2025-current, B.S.: University of Macau & M.S.: Carnegie Mellon University)    
+- Zhiben Chen (Summer 2025-current)     
+  B.S.: University of Macau & M.S.: Carnegie Mellon University
