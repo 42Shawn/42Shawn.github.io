@@ -19,23 +19,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0.2' # 使用与示例相同的 Ruby 版本
+          ruby-version: '3.2'
           bundler-cache: true
-      - name: Uninstall uri 0.10.1
-        run: gem uninstall uri -v 0.10.1
-      - name: Install uri 1.0.3
-        run: gem install uri -v 1.0.3
-      - name: bundle config
-        run: bundle config --global frozen false
-      - name: Update Bundler and Gems
-        run: |
-          gem update bundler
-          bundle update --bundler
-          bundle update
-      - name: Clean Bundler Cache and Gemfile.lock
-        run: |
-          bundle clean --force
-          rm -f Gemfile.lock
       - name: Install dependencies
         run: bundle install
       - name: Install deps
@@ -47,13 +32,13 @@ jobs:
           git config --global user.name "GitHub Action"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [[ ${GITHUB_REF} = refs/pull/*/merge ]]; then # pull request
-            echo "::set-output name=SRC_BRANCH::${GITHUB_HEAD_REF}"
-            echo "::set-output name=NO_PUSH::--no-push"
+            echo "SRC_BRANCH=${GITHUB_HEAD_REF}" >> $GITHUB_OUTPUT
+            echo "NO_PUSH=--no-push" >> $GITHUB_OUTPUT
           elif [[ ${GITHUB_REF} = refs/heads/* ]]; then # branch, e.g. master, source etc
-            echo "::set-output name=SRC_BRANCH::${GITHUB_REF#refs/heads/}"
+            echo "SRC_BRANCH=${GITHUB_REF#refs/heads/}" >> $GITHUB_OUTPUT
           fi
-          echo "::set-output name=DEPLOY_BRANCH::gh-pages"
-      - name: Deploy website 
+          echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
+      - name: Deploy website
         run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
-              --src ${{ steps.setup.outputs.SRC_BRANCH }} 
+              --src ${{ steps.setup.outputs.SRC_BRANCH }}
               --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }}
