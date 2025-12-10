@@ -12,7 +12,7 @@ news_limit: 5
 
 Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory ([EXceL-Lab](https://excel-lab.github.io/EXcel-Lab-Website/){:style="font-weight: 500;"}) at University of Central Florida, part of the Department of Computer Science and the Insititute of Artificial intelligence. Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize and accelerate AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery.     
 
-<span style="font-weight:bold; color:red;">[Hiring!]</span> <span style="color:red;">I am actively looking for postdocs, Ph.D. students, visiting scholars/students, and master/undergraduate researchers.</span> If you are interested in working with me, feel free to contact me via yuzhang.hire@gmail.com. <span style="font-weight:400;">UCF@CSRankings: Computer Vision (9th), AI (39th), Overall (53rd).</span>    
+<span style="font-weight:bold; color:red;">[Hiring!]</span> <span style="color:red;">We are actively looking for postdocs, Ph.D. students, visiting scholars/students, and master/undergraduate researchers.</span> If you are interested in working with me, feel free to contact me via yuzhang.hire@gmail.com (Please do not send to my yuzhang.shang@ucf.edu email). <span style="font-weight:400;">UCF@CSRankings: Computer Vision (9th), AI (39th), Overall (53rd).</span>    
 
 
 <!-- ### Research Goal: Efficient/Scalable AI

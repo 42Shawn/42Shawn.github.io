@@ -39,7 +39,6 @@ During my Ph.D. journey, I was awarded [Rising Stars in ML and Systems by MLComm
 
 Before Ph.D., I worked as research assistants at Shandong University and Hong Kong University of Science and Technology (HKUST) under the supervision of Prof. [Liqiang Nie](https://liqiangnie.github.io/index.html){:style="color: rgb(240, 119, 43); font-weight: 400;"} and Prof. [Dan Xu](https://www.danxurgb.net/){:style="color: rgb(240, 119, 43); font-weight: 400;"}, respectively. I received my bachelor's degrees in Applied Mathematics and Economics (dual degrees) at Wuhan University. 
 
-<span style="font-weight:bold; color:red;">[Hiring!]</span> <span style="color:red;">I am actively looking for postdocs, Ph.D. students, visiting scholars/students, and master/undergraduate researchers.</span> If you are interested in working with me, feel free to contact me via yuzhang.hire@gmail.com. <span style="font-weight:400;">UCF@CSRankings: Computer Vision (9th), AI (39th), Overall (53rd).</span>    
 
 <!-- > I regularly serve as PC member, and reviewer for multiple international conferences and journals such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM-MM, WSDM, NeuroComputing, Information Sciences, CVIU, TMM, TCSVT, and TKDE.       -->
 
