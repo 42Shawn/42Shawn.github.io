@@ -42,6 +42,6 @@ Before Ph.D., I worked as research assistants at Shandong University and Hong Ko
 
 <!-- > I regularly serve as PC member, and reviewer for multiple international conferences and journals such as CVPR, ICCV, ECCV, NeurIPS, ICLR, ICML, ACM-MM, WSDM, NeuroComputing, Information Sciences, CVIU, TMM, TCSVT, and TKDE.       -->
 
-_Besides research, I am a contract photographer for Shutterstock Images and Getty Images (my [portfolio](https://500px.com/p/yuzhangshang){:style="color: rgb(240, 119, 43); font-weight: 400;"})._     
+_Besides research, I was a contract photographer for Shutterstock Images and Getty Images (my [portfolio](https://500px.com/p/yuzhangshang){:style="color: rgb(240, 119, 43); font-weight: 400;"})._     
 
 
