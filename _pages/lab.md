@@ -32,10 +32,10 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
 - [Yuzhang Shang](https://42shawn.github.io/){:style="color: rgb(240, 119, 43);"}, Assistant Professor
 
 **Ph.D. Students**    
-- Kunyang Li (Fall 2025-current)    
+- Kunyang Li (Fall 2025-current, co-advided with Dr. Mubarak Shah)    
   B.S.: University of Electronic Science and Technology of China & M.S.: Nanyang Technological University    
   
-- Wenrui Bao (Spring 2026-current)    
+- Wenrui Bao (Fall 2026-current)    
   B.S.: Chinese University of Hong Kong & M.S.: National University of Singapore
 
 **M.S. Students**    
