@@ -49,7 +49,13 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
 
 **M.S. Students**    
 - Mahd Qureshi (Fall 2025-current)    
-  B.S.: Lahore University of Management Sciences
+  M.S.: University of Central Florida
+
+- Joshua Lowe (Spring 2026-current)    
+  M.S.: University of Central Florida
+
+- Hai Nguyen (Spring 2026-current)    
+  M.S.: University of Central Florida
 
 **Research Assistant**    
 - Zhiben Chen (Summer 2025-current)     
