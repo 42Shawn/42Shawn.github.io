@@ -10,7 +10,7 @@ news: true  # includes a list of news items
 news_limit: 5
 ---
 
-Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory ([EXceL-Lab](https://excel-lab.github.io/EXcel-Lab-Website/){:style="font-weight: 500;"}) at University of Central Florida, part of the Department of Computer Science and the Insititute of Artificial intelligence. Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize and accelerate AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery.     
+Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **Lab**oratory (**EXceL-Lab**) at University of Central Florida, part of the Department of Computer Science and the Insititute of Artificial intelligence. Our mission is to build the next generation **efficient and scalable machine intelligence** to democritize and accelerate AI technology. We approach this through optimizing and co-designing AI algorithms and hardware systems. We also actively push efficient AI to accelerate scientific discovery.     
 
 <span style="font-weight:bold; color:red;">[Hiring!]</span> <span style="color:red;">We are actively looking for postdocs, Ph.D. students, visiting scholars/students, and master/undergraduate researchers.</span> If you are interested in working with me, feel free to contact me via yuzhang.hire@gmail.com (Please do not send to other emails). <span style="font-weight:400;">UCF@CSRankings: Computer Vision (9th), AI (39th), Overall (53rd).</span>    
 
@@ -32,10 +32,10 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
 - [Yuzhang Shang](https://42shawn.github.io/){:style="color: rgb(240, 119, 43);"}, Assistant Professor
 
 **Ph.D. Students**    
-- Kunyang Li (Fall 2025-, co-advided with Dr. Mubarak Shah)    
+- [Kunyang Li](https://scholar.google.com/citations?user=NcqZtt8AAAAJ&hl=zh-CN) (Fall 2025-, co-advided with Dr. Mubarak Shah)    
   B.S.: University of Electronic Science and Technology of China & M.S.: Nanyang Technological University    
   
-- Wenrui Bao (Fall 2026-)    
+- [Wenrui Bao](https://scholar.google.com/citations?user=uINrqXAAAAAJ&hl=en) (Spring 2026-)    
   B.S.: Chinese University of Hong Kong & M.S.: Nanyang Technological University    
 
 - Xinxin Liu (Fall 2026-, co-advided with Dr. Chen Chen)    
@@ -45,7 +45,10 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
   B.S.: Central South University   
 
 - Hang Yu (Fall 2026-, co-advided with Dr. Mubarak Shah)    
-  B.S.: University of Macau & M.S.: Boston University  
+  B.S.: University of Macau & M.S.: Boston University
+
+- [Anh Dao](https://anhdao69.github.io/) (Fall 2026-)    
+  B.S.: Michigan State University  
 
 **M.S. Students**    
 - Mahd Qureshi (Fall 2025-current)    
