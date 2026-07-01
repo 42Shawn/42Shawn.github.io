@@ -51,8 +51,6 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
   B.S.: Michigan State University  
 
 **M.S. Students**    
-- Mahd Qureshi (Fall 2025-current)    
-  M.S.: University of Central Florida
 
 - Joshua Lowe (Spring 2026-current)    
   M.S.: University of Central Florida
