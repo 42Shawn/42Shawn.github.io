@@ -31,17 +31,7 @@
 
   <figcaption class="lab-photo__caption">
     <strong>EXceL-Lab dinner, October 2026.</strong>
-    <span class="lab-photo__hint">Hover over a face or a name.</span><br>
-    Front row:
-    <a data-person="kunyang" href="https://scholar.google.com/citations?user=NcqZtt8AAAAJ&hl=zh-CN" target="_blank" rel="noopener">Kunyang Li</a>
-    <a data-person="xinxin" href="https://xinxinliu-ai.github.io/" target="_blank" rel="noopener">Xinxin Liu</a>
-    <a data-person="yuzhang" href="https://42shawn.github.io/" target="_blank" rel="noopener">Yuzhang Shang</a>
-    <a data-person="rafid" href="https://ahmedrafid023.github.io/" target="_blank" rel="noopener">Rafid Ahmed</a>
-    <a data-person="chaoyang" href="https://cywang735.github.io/" target="_blank" rel="noopener">Chaoyang Wang</a>
-    <br>
-    Back row:
-    <a data-person="wenrui" href="https://scholar.google.com/citations?user=uINrqXAAAAAJ&hl=en" target="_blank" rel="noopener">Wenrui Bao</a>
-    <a data-person="anh" href="https://anhdao69.github.io/" target="_blank" rel="noopener">Anh Dao</a>
+    <span class="lab-photo__hint">Hover over a face or a name.</span>
   </figcaption>
 </figure>
 
@@ -107,21 +97,9 @@
   .lab-photo__caption {
     margin-top: 0.7rem;
     font-size: 0.9rem;
-    line-height: 2;
     color: var(--global-text-color);
   }
   .lab-photo__hint { color: var(--global-text-color-light); margin-left: 0.3em; }
-  .lab-photo__caption a {
-    display: inline-block;
-    margin: 0 0.15em;
-    padding: 0 0.65em;
-    border: 1px solid var(--global-divider-color, rgba(128, 128, 128, 0.35));
-    border-radius: 999px;
-    line-height: 1.7;
-    color: var(--global-text-color);
-    text-decoration: none;
-    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
-  }
   /* A name anywhere on the page that is linked to the photo. */
   a[data-person]:not(.lab-photo__spot).is-active {
     background-color: var(--global-theme-color);
@@ -131,7 +109,6 @@
     text-decoration: none;
     box-shadow: 0 0 0 0.3em var(--global-theme-color);
   }
-  .lab-photo__caption a[data-person]:not(.lab-photo__spot).is-active { box-shadow: none; }
 
   /* Touch screens have no hover, so names stay visible. */
   @media (hover: none) {
@@ -140,7 +117,7 @@
     .lab-photo__hint { display: none; }
   }
   @media (prefers-reduced-motion: reduce) {
-    .lab-photo__spot, .lab-photo__tag, .lab-photo__caption a { transition: none; }
+    .lab-photo__spot, .lab-photo__tag { transition: none; }
   }
 </style>
 
