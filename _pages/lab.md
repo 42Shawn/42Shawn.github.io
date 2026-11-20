@@ -46,7 +46,7 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
 - [Chaoyang Wang](https://cywang735.github.io/){: data-person="chaoyang"} (Fall 2026-)    
   B.S.: Central South University   
 
-- [Rafid Ahmed](https://ahmedrafid023.github.io/){: data-person="rafid"} (Fall 2026-)    
+- [Rafid Ahmed](https://ahmedrafid023.github.io/){: data-person="rafid"} (Fall 2026-, w/ Dr. Mubarak Shah)    
   B.S.: Computer Science and Engineering, University of Dhaka
 
 - [Anh Dao](https://anhdao69.github.io/){: data-person="anh"} (Fall 2026-)    
