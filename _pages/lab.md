@@ -28,26 +28,28 @@ Welcome to our **E**fficient, **Sc**alable and Ac**ce**lerated **L**earning **La
  
 
 
+{% include lab_photo.html %}
+
 **Principal Investigator**    
-- [Yuzhang Shang](https://42shawn.github.io/){:style="color: rgb(240, 119, 43);"}, Assistant Professor
+- [Yuzhang Shang](https://42shawn.github.io/){:style="color: rgb(240, 119, 43);" data-person="yuzhang"}, Assistant Professor
 
 **Ph.D. Students**    
-- [Kunyang Li](https://scholar.google.com/citations?user=NcqZtt8AAAAJ&hl=zh-CN) (Fall 2025-, w/ Dr. Mubarak Shah)    
+- [Kunyang Li](https://scholar.google.com/citations?user=NcqZtt8AAAAJ&hl=zh-CN){: data-person="kunyang"} (Fall 2025-, w/ Dr. Mubarak Shah)    
   B.S.: University of Electronic Science and Technology of China & M.S.: Nanyang Technological University    
   
-- [Wenrui Bao](https://scholar.google.com/citations?user=uINrqXAAAAAJ&hl=en) (Spring 2026-)    
+- [Wenrui Bao](https://scholar.google.com/citations?user=uINrqXAAAAAJ&hl=en){: data-person="wenrui"} (Spring 2026-)    
   B.S.: Chinese University of Hong Kong & M.S.: Nanyang Technological University    
 
-- Xinxin Liu (Fall 2026-, w/ Dr. Chen Chen)    
+- [Xinxin Liu](https://xinxinliu-ai.github.io/){: data-person="xinxin"} (Fall 2026-, w/ Dr. Chen Chen)    
   B.S.: Beijing Normal University & M.S.: Johns Hopkins University        
 
-- Chaoyang Wang (Fall 2026-)    
+- [Chaoyang Wang](https://cywang735.github.io/){: data-person="chaoyang"} (Fall 2026-)    
   B.S.: Central South University   
 
-- Hang Yu (Fall 2026-, w/ Dr. Mubarak Shah)    
-  B.S.: University of Macau & M.S.: Boston University
+- [Rafid Ahmed](https://ahmedrafid023.github.io/){: data-person="rafid"} (Fall 2026-)    
+  B.S.: Computer Science and Engineering, University of Dhaka
 
-- [Anh Dao](https://anhdao69.github.io/) (Fall 2026-)    
+- [Anh Dao](https://anhdao69.github.io/){: data-person="anh"} (Fall 2026-)    
   B.S.: Michigan State University  
 
 **M.S. Students**    

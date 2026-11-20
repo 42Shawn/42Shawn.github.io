@@ -1,0 +1,168 @@
+<!-- Interactive lab photo: hovering a face (or a name carrying a matching
+     data-person attribute anywhere on the page) spotlights that person.
+     Hotspot positions are percentages of the image, so they scale with it. -->
+<figure class="lab-photo" id="lab-photo">
+  <div class="lab-photo__frame">
+    <img src="{{ '/assets/img/lab/2026-10-lab-dinner.jpg' | relative_url }}"
+         alt="EXceL-Lab group dinner, October 2026" width="1706" height="1280" loading="lazy">
+
+    <a class="lab-photo__spot" data-person="wenrui" style="left:15.1%;top:27.3%"
+       href="https://scholar.google.com/citations?user=uINrqXAAAAAJ&hl=en" target="_blank" rel="noopener">
+      <span class="lab-photo__tag">Wenrui Bao</span></a>
+    <a class="lab-photo__spot" data-person="anh" style="left:69.8%;top:33.4%"
+       href="https://anhdao69.github.io/" target="_blank" rel="noopener">
+      <span class="lab-photo__tag">Anh Dao</span></a>
+    <a class="lab-photo__spot" data-person="kunyang" style="left:14.4%;top:52%"
+       href="https://scholar.google.com/citations?user=NcqZtt8AAAAJ&hl=zh-CN" target="_blank" rel="noopener">
+      <span class="lab-photo__tag">Kunyang Li</span></a>
+    <a class="lab-photo__spot" data-person="xinxin" style="left:32.8%;top:48%"
+       href="https://xinxinliu-ai.github.io/" target="_blank" rel="noopener">
+      <span class="lab-photo__tag">Xinxin Liu</span></a>
+    <a class="lab-photo__spot" data-person="yuzhang" style="left:48.9%;top:47.3%"
+       href="https://42shawn.github.io/" target="_blank" rel="noopener">
+      <span class="lab-photo__tag">Yuzhang Shang</span></a>
+    <a class="lab-photo__spot" data-person="rafid" style="left:64.8%;top:52%"
+       href="https://ahmedrafid023.github.io/" target="_blank" rel="noopener">
+      <span class="lab-photo__tag">Rafid Ahmed</span></a>
+    <a class="lab-photo__spot lab-photo__spot--right" data-person="chaoyang" style="left:89.4%;top:52.7%"
+       href="https://cywang735.github.io/" target="_blank" rel="noopener">
+      <span class="lab-photo__tag">Chaoyang Wang</span></a>
+  </div>
+
+  <figcaption class="lab-photo__caption">
+    <strong>EXceL-Lab dinner, October 2026.</strong>
+    <span class="lab-photo__hint">Hover over a face or a name.</span><br>
+    Front row:
+    <a data-person="kunyang" href="https://scholar.google.com/citations?user=NcqZtt8AAAAJ&hl=zh-CN" target="_blank" rel="noopener">Kunyang Li</a>
+    <a data-person="xinxin" href="https://xinxinliu-ai.github.io/" target="_blank" rel="noopener">Xinxin Liu</a>
+    <a data-person="yuzhang" href="https://42shawn.github.io/" target="_blank" rel="noopener">Yuzhang Shang</a>
+    <a data-person="rafid" href="https://ahmedrafid023.github.io/" target="_blank" rel="noopener">Rafid Ahmed</a>
+    <a data-person="chaoyang" href="https://cywang735.github.io/" target="_blank" rel="noopener">Chaoyang Wang</a>
+    <br>
+    Back row:
+    <a data-person="wenrui" href="https://scholar.google.com/citations?user=uINrqXAAAAAJ&hl=en" target="_blank" rel="noopener">Wenrui Bao</a>
+    <a data-person="anh" href="https://anhdao69.github.io/" target="_blank" rel="noopener">Anh Dao</a>
+  </figcaption>
+</figure>
+
+<style>
+  .lab-photo { margin: 1.5rem 0 2rem; }
+  .lab-photo__frame {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    line-height: 0;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.18);
+  }
+  .lab-photo__frame img { display: block; width: 100%; height: auto; }
+
+  .lab-photo__spot {
+    position: absolute;
+    width: 9.5%;
+    aspect-ratio: 1;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+    border: 2px solid transparent;
+    box-shadow: 0 0 0 200vmax rgba(0, 0, 0, 0);
+    transition: box-shadow 0.25s ease, border-color 0.25s ease, width 0.25s ease;
+    z-index: 1;
+  }
+  .lab-photo__tag {
+    position: absolute;
+    top: calc(100% + 6px);
+    left: 50%;
+    transform: translate(-50%, -4px);
+    padding: 0.28em 0.7em;
+    border-radius: 999px;
+    background: rgba(20, 20, 20, 0.78);
+    color: #fff;
+    font-size: clamp(0.6rem, 1.6vw, 0.85rem);
+    font-weight: 600;
+    line-height: 1.2;
+    white-space: nowrap;
+    opacity: 0;
+    transition: opacity 0.25s ease, transform 0.25s ease, background-color 0.25s ease;
+    pointer-events: none;
+  }
+  .lab-photo__spot--right .lab-photo__tag { left: auto; right: -10%; transform: translate(0, -4px); }
+
+  /* Pointer anywhere on the photo: every name appears faintly. */
+  .lab-photo__frame:hover .lab-photo__tag,
+  .lab-photo.is-linked .lab-photo__tag { opacity: 0.85; transform: translate(-50%, 0); }
+  .lab-photo__frame:hover .lab-photo__spot--right .lab-photo__tag,
+  .lab-photo.is-linked .lab-photo__spot--right .lab-photo__tag { transform: translate(0, 0); }
+
+  /* The selected person: ring, enlarged tag, everything else dimmed. */
+  .lab-photo__spot.is-active {
+    z-index: 3;
+    width: 11.5%;
+    border-color: #fff;
+    box-shadow: 0 0 0 200vmax rgba(0, 0, 0, 0.55);
+  }
+  .lab-photo__spot.is-active .lab-photo__tag {
+    opacity: 1;
+    background: var(--global-theme-color);
+  }
+
+  .lab-photo__caption {
+    margin-top: 0.7rem;
+    font-size: 0.9rem;
+    line-height: 2;
+    color: var(--global-text-color);
+  }
+  .lab-photo__hint { color: var(--global-text-color-light); margin-left: 0.3em; }
+  .lab-photo__caption a {
+    display: inline-block;
+    margin: 0 0.15em;
+    padding: 0 0.65em;
+    border: 1px solid var(--global-divider-color, rgba(128, 128, 128, 0.35));
+    border-radius: 999px;
+    line-height: 1.7;
+    color: var(--global-text-color);
+    text-decoration: none;
+    transition: background-color 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+  /* A name anywhere on the page that is linked to the photo. */
+  a[data-person]:not(.lab-photo__spot).is-active {
+    background-color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+    color: #fff !important;
+    border-radius: 999px;
+    text-decoration: none;
+    box-shadow: 0 0 0 0.3em var(--global-theme-color);
+  }
+  .lab-photo__caption a[data-person]:not(.lab-photo__spot).is-active { box-shadow: none; }
+
+  /* Touch screens have no hover, so names stay visible. */
+  @media (hover: none) {
+    .lab-photo__tag { opacity: 0.85; transform: translate(-50%, 0); }
+    .lab-photo__spot--right .lab-photo__tag { transform: translate(0, 0); }
+    .lab-photo__hint { display: none; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .lab-photo__spot, .lab-photo__tag, .lab-photo__caption a { transition: none; }
+  }
+</style>
+
+<script>
+  (function () {
+    var figure = document.getElementById('lab-photo');
+    if (!figure) return;
+
+    function setActive(person, on) {
+      document.querySelectorAll('[data-person="' + person + '"]').forEach(function (el) {
+        el.classList.toggle('is-active', on);
+      });
+      // Names outside the photo also reveal the faint tags on it.
+      figure.classList.toggle('is-linked', on);
+    }
+
+    document.querySelectorAll('[data-person]').forEach(function (el) {
+      var person = el.getAttribute('data-person');
+      el.addEventListener('mouseenter', function () { setActive(person, true); });
+      el.addEventListener('mouseleave', function () { setActive(person, false); });
+      el.addEventListener('focus', function () { setActive(person, true); });
+      el.addEventListener('blur', function () { setActive(person, false); });
+    });
+  })();
+</script>
